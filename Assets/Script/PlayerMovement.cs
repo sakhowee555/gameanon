@@ -11,6 +11,17 @@ public class PlayerMovement : MonoBehaviour
     public Rigidbody2D rb;
     public Animator anim;
 
+
+    public Player_Combat player_combat;
+
+
+    private void Start()
+    {
+      if(Input.GetButtonDown("Slash"))
+      {
+        player_combat.Attack();
+        }
+    }
     // Update is called 50x per frame
     void FixedUpdate()
     {
