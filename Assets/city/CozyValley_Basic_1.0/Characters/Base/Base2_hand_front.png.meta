@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: 6725aaef236655f42af57561c59dc87b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4010758542273105165
+    second: Base2_hand_front_0
+  - first:
+      213: 6164167779966587392
+    second: Base2_hand_front_1
+  - first:
+      213: 3305860852250811845
+    second: Base2_hand_front_2
+  - first:
+      213: -6269826220047449731
+    second: Base2_hand_front_3
+  - first:
+      213: 5773880610186851744
+    second: Base2_hand_front_4
+  - first:
+      213: -7991110682086243718
+    second: Base2_hand_front_5
+  - first:
+      213: 915557503278765342
+    second: Base2_hand_front_6
+  - first:
+      213: -122475656140329219
+    second: Base2_hand_front_7
+  - first:
+      213: -6357463270482216208
+    second: Base2_hand_front_8
+  - first:
+      213: -1079286083448163303
+    second: Base2_hand_front_9
+  - first:
+      213: 7671238126490740763
+    second: Base2_hand_front_10
+  - first:
+      213: -3497036896206356836
+    second: Base2_hand_front_11
+  - first:
+      213: 3163249575415279672
+    second: Base2_hand_front_12
+  - first:
+      213: 6276936158988335301
+    second: Base2_hand_front_13
+  - first:
+      213: -8087793723317332643
+    second: Base2_hand_front_14
+  - first:
+      213: 2920773458773367016
+    second: Base2_hand_front_15
+  - first:
+      213: -6868822889296040855
+    second: Base2_hand_front_16
+  - first:
+      213: -5300660615550538257
+    second: Base2_hand_front_17
+  - first:
+      213: 7498418343575819182
+    second: Base2_hand_front_18
+  - first:
+      213: 1951228085274924865
+    second: Base2_hand_front_19
+  - first:
+      213: 713712393221310672
+    second: Base2_hand_front_20
+  - first:
+      213: -6797131089653418717
+    second: Base2_hand_front_21
+  - first:
+      213: 8220070148250040610
+    second: Base2_hand_front_22
+  - first:
+      213: 5898018133806826351
+    second: Base2_hand_front_23
+  - first:
+      213: 4225698189493901917
+    second: Base2_hand_front_24
+  - first:
+      213: -5317853566992689345
+    second: Base2_hand_front_25
+  - first:
+      213: 7122383164065495997
+    second: Base2_hand_front_26
+  - first:
+      213: -3562229534278585186
+    second: Base2_hand_front_27
+  - first:
+      213: -446517398438718444
+    second: Base2_hand_front_28
+  - first:
+      213: 7230449745821408284
+    second: Base2_hand_front_29
+  - first:
+      213: -8666795076772087171
+    second: Base2_hand_front_30
+  - first:
+      213: 471343311925634682
+    second: Base2_hand_front_31
+  - first:
+      213: -8277111254961132438
+    second: Base2_hand_front_32
+  - first:
+      213: -4673330444583486160
+    second: Base2_hand_front_33
+  - first:
+      213: 5189686280576072963
+    second: Base2_hand_front_34
+  - first:
+      213: 1043470629772180978
+    second: Base2_hand_front_35
+  - first:
+      213: -6993562609679670160
+    second: Base2_hand_front_36
+  - first:
+      213: 7060620749446917182
+    second: Base2_hand_front_37
+  - first:
+      213: -8074439545070272015
+    second: Base2_hand_front_38
+  - first:
+      213: -4371201392273817300
+    second: Base2_hand_front_39
+  - first:
+      213: -3009059861991659128
+    second: Base2_hand_front_40
+  - first:
+      213: -8807696334908827224
+    second: Base2_hand_front_41
+  - first:
+      213: -2581310196924057602
+    second: Base2_hand_front_42
+  - first:
+      213: 3763469962303956981
+    second: Base2_hand_front_43
+  - first:
+      213: 76203649121070845
+    second: Base2_hand_front_44
+  - first:
+      213: 7554728199903318092
+    second: Base2_hand_front_45
+  - first:
+      213: 1056915975601118353
+    second: Base2_hand_front_46
+  - first:
+      213: 5969468606806655845
+    second: Base2_hand_front_47
+  - first:
+      213: -3005528477948320569
+    second: Base2_hand_front_48
+  - first:
+      213: 214131724287521682
+    second: Base2_hand_front_49
+  - first:
+      213: 3295881298495240417
+    second: Base2_hand_front_50
+  - first:
+      213: -6169790586725299931
+    second: Base2_hand_front_51
+  - first:
+      213: -5188674904806104416
+    second: Base2_hand_front_52
+  - first:
+      213: -8902735137442908890
+    second: Base2_hand_front_53
+  - first:
+      213: -1240748065249834231
+    second: Base2_hand_front_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base2_hand_front_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 517
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d4d00f4a319a730800000000000000
+      internalID: 4010758542273105165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 517
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00211dccfe58b8550800000000000000
+      internalID: 6164167779966587392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 518
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd974f0ee6c0ed20800000000000000
+      internalID: 3305860852250811845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 517
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7144a6954a1df8a0800000000000000
+      internalID: -6269826220047449731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 485
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5f3b9d2d1f02050800000000000000
+      internalID: 5773880610186851744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 485
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a728b616c2fd91190800000000000000
+      internalID: -7991110682086243718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 485
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15df5ac2b6b4bc00800000000000000
+      internalID: 915557503278765342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 485
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe6f162a01ec4ef0800000000000000
+      internalID: -122475656140329219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 486
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa705ab6d0c5c7a0800000000000000
+      internalID: -6357463270482216208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 486
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914bc01860b9501f0800000000000000
+      internalID: -1079286083448163303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 485
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18e9ec9e66b57a60800000000000000
+      internalID: 7671238126490740763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 485
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e7f239877087fc0800000000000000
+      internalID: -3497036896206356836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 452
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830788eaabe16eb20800000000000000
+      internalID: 3163249575415279672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 452
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8fd421e282c1750800000000000000
+      internalID: 6276936158988335301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 421
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d555909a57262cf80800000000000000
+      internalID: -8087793723317332643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 421
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8539f5cfba88820800000000000000
+      internalID: 2920773458773367016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 422
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cef6a89f90da0a0800000000000000
+      internalID: -6868822889296040855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 388
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fede43711454076b0800000000000000
+      internalID: -5300660615550538257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 389
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea31c1251cbbf0860800000000000000
+      internalID: 7498418343575819182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 389
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147d3920b97241b10800000000000000
+      internalID: 1951228085274924865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 388
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d800c5e3ad97e900800000000000000
+      internalID: 713712393221310672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 338
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325b175694dbba1a0800000000000000
+      internalID: -6797131089653418717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 339
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2297c3f7f3e831270800000000000000
+      internalID: 8220070148250040610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 338
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f634e506e38f9d150800000000000000
+      internalID: 5898018133806826351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 304
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a9bc85d12b4aa30800000000000000
+      internalID: 4225698189493901917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 304
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f375bd32b503336b0800000000000000
+      internalID: -5317853566992689345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbb85070c9c7d260800000000000000
+      internalID: 7122383164065495997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e947be0bc1b609ec0800000000000000
+      internalID: -3562229534278585186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_28
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 304
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4145708bac6adc9f0800000000000000
+      internalID: -446517398438718444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 304
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c9ff93cb7b75460800000000000000
+      internalID: 7230449745821408284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_30
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 234
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a35ebdbcb59b780800000000000000
+      internalID: -8666795076772087171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_31
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 241
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a766592be3c8a8600800000000000000
+      internalID: 471343311925634682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 229
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c67a9ea2bc12d80800000000000000
+      internalID: -8277111254961132438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_33
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 229
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d359498bef42fb0800000000000000
+      internalID: -4673330444583486160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_34
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 229
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d74711d28750840800000000000000
+      internalID: 5189686280576072963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_35
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 204
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdbf1d52072b7e00800000000000000
+      internalID: 1043470629772180978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 208
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074e6972cdfd1fe90800000000000000
+      internalID: -6993562609679670160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 197
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c2980b92d5cf160800000000000000
+      internalID: 7060620749446917182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_38
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 197
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f148b39304d1ff80800000000000000
+      internalID: -8074439545070272015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_39
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 196
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2183db4e7f5653c0800000000000000
+      internalID: -4371201392273817300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_40
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 196
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889e91a8ffbad36d0800000000000000
+      internalID: -3009059861991659128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_41
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 142
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9df3c39d6c4c580800000000000000
+      internalID: -8807696334908827224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 133
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef77f316d085d2cd0800000000000000
+      internalID: -2581310196924057602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_43
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 101
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7eaf1bdf78a3430800000000000000
+      internalID: 3763469962303956981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 101
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe237ca0dabe0100800000000000000
+      internalID: 76203649121070845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_45
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 108
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c401dd96549c7d860800000000000000
+      internalID: 7554728199903318092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_46
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 68
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cd323ea7beaae00800000000000000
+      internalID: 1056915975601118353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_47
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 37
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5638e8ef110d7d250800000000000000
+      internalID: 5969468606806655845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_48
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 37
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4e195f5c73a46d0800000000000000
+      internalID: -3005528477948320569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_49
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293bc413bafb8f200800000000000000
+      internalID: 214131724287521682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e879a224925dbd20800000000000000
+      internalID: 3295881298495240417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_51
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52980bb7620806aa0800000000000000
+      internalID: -6169790586725299931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_52
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a26c043aaf1ef7b0800000000000000
+      internalID: -5188674904806104416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_53
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625b35baf81237480800000000000000
+      internalID: -8902735137442908890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base2_hand_front_54
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 4
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bc70b553af7cee0800000000000000
+      internalID: -1240748065249834231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Base2_hand_front_0: 4010758542273105165
+      Base2_hand_front_1: 6164167779966587392
+      Base2_hand_front_10: 7671238126490740763
+      Base2_hand_front_11: -3497036896206356836
+      Base2_hand_front_12: 3163249575415279672
+      Base2_hand_front_13: 6276936158988335301
+      Base2_hand_front_14: -8087793723317332643
+      Base2_hand_front_15: 2920773458773367016
+      Base2_hand_front_16: -6868822889296040855
+      Base2_hand_front_17: -5300660615550538257
+      Base2_hand_front_18: 7498418343575819182
+      Base2_hand_front_19: 1951228085274924865
+      Base2_hand_front_2: 3305860852250811845
+      Base2_hand_front_20: 713712393221310672
+      Base2_hand_front_21: -6797131089653418717
+      Base2_hand_front_22: 8220070148250040610
+      Base2_hand_front_23: 5898018133806826351
+      Base2_hand_front_24: 4225698189493901917
+      Base2_hand_front_25: -5317853566992689345
+      Base2_hand_front_26: 7122383164065495997
+      Base2_hand_front_27: -3562229534278585186
+      Base2_hand_front_28: -446517398438718444
+      Base2_hand_front_29: 7230449745821408284
+      Base2_hand_front_3: -6269826220047449731
+      Base2_hand_front_30: -8666795076772087171
+      Base2_hand_front_31: 471343311925634682
+      Base2_hand_front_32: -8277111254961132438
+      Base2_hand_front_33: -4673330444583486160
+      Base2_hand_front_34: 5189686280576072963
+      Base2_hand_front_35: 1043470629772180978
+      Base2_hand_front_36: -6993562609679670160
+      Base2_hand_front_37: 7060620749446917182
+      Base2_hand_front_38: -8074439545070272015
+      Base2_hand_front_39: -4371201392273817300
+      Base2_hand_front_4: 5773880610186851744
+      Base2_hand_front_40: -3009059861991659128
+      Base2_hand_front_41: -8807696334908827224
+      Base2_hand_front_42: -2581310196924057602
+      Base2_hand_front_43: 3763469962303956981
+      Base2_hand_front_44: 76203649121070845
+      Base2_hand_front_45: 7554728199903318092
+      Base2_hand_front_46: 1056915975601118353
+      Base2_hand_front_47: 5969468606806655845
+      Base2_hand_front_48: -3005528477948320569
+      Base2_hand_front_49: 214131724287521682
+      Base2_hand_front_5: -7991110682086243718
+      Base2_hand_front_50: 3295881298495240417
+      Base2_hand_front_51: -6169790586725299931
+      Base2_hand_front_52: -5188674904806104416
+      Base2_hand_front_53: -8902735137442908890
+      Base2_hand_front_54: -1240748065249834231
+      Base2_hand_front_6: 915557503278765342
+      Base2_hand_front_7: -122475656140329219
+      Base2_hand_front_8: -6357463270482216208
+      Base2_hand_front_9: -1079286083448163303
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

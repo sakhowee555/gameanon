@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: b389a2eb58a7c464ca57b742f48b76e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2258231716203861065
+    second: Tops_shirt_6_0
+  - first:
+      213: 7525322751409729552
+    second: Tops_shirt_6_1
+  - first:
+      213: -6570434539979021095
+    second: Tops_shirt_6_2
+  - first:
+      213: 5450885898319460491
+    second: Tops_shirt_6_3
+  - first:
+      213: 6664878628703564751
+    second: Tops_shirt_6_4
+  - first:
+      213: -3291900932142503708
+    second: Tops_shirt_6_5
+  - first:
+      213: -6303615709061862890
+    second: Tops_shirt_6_6
+  - first:
+      213: -3529393725522878021
+    second: Tops_shirt_6_7
+  - first:
+      213: 6173669282591300643
+    second: Tops_shirt_6_8
+  - first:
+      213: 3480782074325684567
+    second: Tops_shirt_6_9
+  - first:
+      213: -2679085869274693454
+    second: Tops_shirt_6_10
+  - first:
+      213: -2895205530773740765
+    second: Tops_shirt_6_11
+  - first:
+      213: 2445666747186851954
+    second: Tops_shirt_6_12
+  - first:
+      213: -6743130662258826208
+    second: Tops_shirt_6_13
+  - first:
+      213: 9101618831247195226
+    second: Tops_shirt_6_14
+  - first:
+      213: -2068545883568321053
+    second: Tops_shirt_6_15
+  - first:
+      213: 8948987422738682883
+    second: Tops_shirt_6_16
+  - first:
+      213: -4212555756595751521
+    second: Tops_shirt_6_17
+  - first:
+      213: 7940968705642721459
+    second: Tops_shirt_6_18
+  - first:
+      213: 3870139173961025330
+    second: Tops_shirt_6_19
+  - first:
+      213: 6681423816119460080
+    second: Tops_shirt_6_20
+  - first:
+      213: 940826842732006303
+    second: Tops_shirt_6_21
+  - first:
+      213: -8373443407937897817
+    second: Tops_shirt_6_22
+  - first:
+      213: 8281107793845259230
+    second: Tops_shirt_6_23
+  - first:
+      213: 2723717204660521993
+    second: Tops_shirt_6_24
+  - first:
+      213: -2708976349512250395
+    second: Tops_shirt_6_25
+  - first:
+      213: -3122995463296820774
+    second: Tops_shirt_6_26
+  - first:
+      213: -8960857188893237782
+    second: Tops_shirt_6_27
+  - first:
+      213: -4268455785966025645
+    second: Tops_shirt_6_28
+  - first:
+      213: -802856773527156568
+    second: Tops_shirt_6_29
+  - first:
+      213: -2517617481159438189
+    second: Tops_shirt_6_30
+  - first:
+      213: 8404316196143773483
+    second: Tops_shirt_6_31
+  - first:
+      213: 76883373020285836
+    second: Tops_shirt_6_32
+  - first:
+      213: -4908176905842184792
+    second: Tops_shirt_6_33
+  - first:
+      213: -4296848946404174110
+    second: Tops_shirt_6_34
+  - first:
+      213: -5597728553331553946
+    second: Tops_shirt_6_35
+  - first:
+      213: -7203639381179407894
+    second: Tops_shirt_6_36
+  - first:
+      213: -271934554144088217
+    second: Tops_shirt_6_37
+  - first:
+      213: 656159169341118898
+    second: Tops_shirt_6_38
+  - first:
+      213: 8550058186395051130
+    second: Tops_shirt_6_39
+  - first:
+      213: -5581416655728894134
+    second: Tops_shirt_6_40
+  - first:
+      213: -2693324919416985812
+    second: Tops_shirt_6_41
+  - first:
+      213: -6599992113218682891
+    second: Tops_shirt_6_42
+  - first:
+      213: -5648462581717489661
+    second: Tops_shirt_6_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tops_shirt_6_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 551
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9441ad008c9d65f10800000000000000
+      internalID: 2258231716203861065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 551
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01031f9eb215f6860800000000000000
+      internalID: 7525322751409729552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 551
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4e798f89021d4a0800000000000000
+      internalID: -6570434539979021095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 551
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88748038df65ab40800000000000000
+      internalID: 5450885898319460491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 519
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3f7fefcc76e7c50800000000000000
+      internalID: 6664878628703564751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 519
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e86edf1b81d052d0800000000000000
+      internalID: -3291900932142503708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 519
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61aabcc19ee0588a0800000000000000
+      internalID: -6303615709061862890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 519
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb167bd2b13150fc0800000000000000
+      internalID: -3529393725522878021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 487
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c5895c0874da550800000000000000
+      internalID: 6173669282591300643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 487
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751dab8cad83e4030800000000000000
+      internalID: 3480782074325684567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 487
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b00d17a899f1dad0800000000000000
+      internalID: -2679085869274693454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 487
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3232c72c8e922d7d0800000000000000
+      internalID: -2895205530773740765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 455
+        width: 74
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270be09e2f0c0f120800000000000000
+      internalID: 2445666747186851954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 423
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024a40aa3669b62a0800000000000000
+      internalID: -6743130662258826208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 423
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cbe75ca127f4e70800000000000000
+      internalID: 9101618831247195226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 423
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed40508a7c0b43e0800000000000000
+      internalID: -2068545883568321053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 391
+        width: 74
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30417cfa5a0313c70800000000000000
+      internalID: 8948987422738682883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_17
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 359
+        width: 74
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f955593cbdef985c0800000000000000
+      internalID: -4212555756595751521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 327
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0f358f6fcf33e60800000000000000
+      internalID: 7940968705642721459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_19
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 327
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2374547e21f75b530800000000000000
+      internalID: 3870139173961025330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 327
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0a2a1af8f29bc50800000000000000
+      internalID: 6681423816119460080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 295
+        width: 74
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b813c570d7e0d00800000000000000
+      internalID: 940826842732006303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 263
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa760bb59d8bcb80800000000000000
+      internalID: -8373443407937897817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_23
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 263
+        width: 42
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb8ddec9a76ce270800000000000000
+      internalID: 8281107793845259230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_24
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 263
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c0964ed569cc520800000000000000
+      internalID: 2723717204660521993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 231
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb4366ec58c76ad0800000000000000
+      internalID: -2708976349512250395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 231
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad959072c24e8a4d0800000000000000
+      internalID: -3122995463296820774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 231
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed53050dd3a4a380800000000000000
+      internalID: -8960857188893237782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_28
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 231
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354c802f31663c4c0800000000000000
+      internalID: -4268455785966025645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_29
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 231
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8c568a40eabd4f0800000000000000
+      internalID: -802856773527156568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 199
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3909d236d30af0dd0800000000000000
+      internalID: -2517617481159438189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_31
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 199
+        width: 42
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27363b6d0122a470800000000000000
+      internalID: 8404316196143773483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_32
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 199
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b020a3505211100800000000000000
+      internalID: 76883373020285836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 167
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad2088db17a2ebb0800000000000000
+      internalID: -4908176905842184792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_34
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 167
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6511026a68e54c0800000000000000
+      internalID: -4296848946404174110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 135
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6698c9de98fd052b0800000000000000
+      internalID: -5597728553331553946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_36
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 135
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae169ca3628870c90800000000000000
+      internalID: -7203639381179407894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_37
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 103
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f561ab6f4e93cf0800000000000000
+      internalID: -271934554144088217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_38
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 103
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b951bcb9452b1900800000000000000
+      internalID: 656159169341118898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_39
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 71
+        width: 74
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a746ff0de98e7a670800000000000000
+      internalID: 8550058186395051130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 39
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f94db8f13da82b0800000000000000
+      internalID: -5581416655728894134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_41
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 39
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27617171436f9ad0800000000000000
+      internalID: -2693324919416985812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_42
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 39
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff783b242e1864a0800000000000000
+      internalID: -6599992113218682891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tops_shirt_6_43
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 7
+        width: 74
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308a4a17531ac91b0800000000000000
+      internalID: -5648462581717489661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tops_shirt_6_0: 2258231716203861065
+      Tops_shirt_6_1: 7525322751409729552
+      Tops_shirt_6_10: -2679085869274693454
+      Tops_shirt_6_11: -2895205530773740765
+      Tops_shirt_6_12: 2445666747186851954
+      Tops_shirt_6_13: -6743130662258826208
+      Tops_shirt_6_14: 9101618831247195226
+      Tops_shirt_6_15: -2068545883568321053
+      Tops_shirt_6_16: 8948987422738682883
+      Tops_shirt_6_17: -4212555756595751521
+      Tops_shirt_6_18: 7940968705642721459
+      Tops_shirt_6_19: 3870139173961025330
+      Tops_shirt_6_2: -6570434539979021095
+      Tops_shirt_6_20: 6681423816119460080
+      Tops_shirt_6_21: 940826842732006303
+      Tops_shirt_6_22: -8373443407937897817
+      Tops_shirt_6_23: 8281107793845259230
+      Tops_shirt_6_24: 2723717204660521993
+      Tops_shirt_6_25: -2708976349512250395
+      Tops_shirt_6_26: -3122995463296820774
+      Tops_shirt_6_27: -8960857188893237782
+      Tops_shirt_6_28: -4268455785966025645
+      Tops_shirt_6_29: -802856773527156568
+      Tops_shirt_6_3: 5450885898319460491
+      Tops_shirt_6_30: -2517617481159438189
+      Tops_shirt_6_31: 8404316196143773483
+      Tops_shirt_6_32: 76883373020285836
+      Tops_shirt_6_33: -4908176905842184792
+      Tops_shirt_6_34: -4296848946404174110
+      Tops_shirt_6_35: -5597728553331553946
+      Tops_shirt_6_36: -7203639381179407894
+      Tops_shirt_6_37: -271934554144088217
+      Tops_shirt_6_38: 656159169341118898
+      Tops_shirt_6_39: 8550058186395051130
+      Tops_shirt_6_4: 6664878628703564751
+      Tops_shirt_6_40: -5581416655728894134
+      Tops_shirt_6_41: -2693324919416985812
+      Tops_shirt_6_42: -6599992113218682891
+      Tops_shirt_6_43: -5648462581717489661
+      Tops_shirt_6_5: -3291900932142503708
+      Tops_shirt_6_6: -6303615709061862890
+      Tops_shirt_6_7: -3529393725522878021
+      Tops_shirt_6_8: 6173669282591300643
+      Tops_shirt_6_9: 3480782074325684567
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

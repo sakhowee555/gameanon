@@ -1,0 +1,1677 @@
+fileFormatVersion: 2
+guid: 074f7456a6cf6fb44b1a18e93d042f0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7427080300813993561
+    second: Base3_body_0
+  - first:
+      213: -2352235968721916452
+    second: Base3_body_1
+  - first:
+      213: -7671051213904829142
+    second: Base3_body_2
+  - first:
+      213: -486423593114865335
+    second: Base3_body_3
+  - first:
+      213: 7050726696341820702
+    second: Base3_body_4
+  - first:
+      213: 3544695713495905533
+    second: Base3_body_5
+  - first:
+      213: -5788680811938346407
+    second: Base3_body_6
+  - first:
+      213: 3591783937121614463
+    second: Base3_body_7
+  - first:
+      213: 707763677814628488
+    second: Base3_body_8
+  - first:
+      213: 2396333717643090363
+    second: Base3_body_9
+  - first:
+      213: 6124214599122566145
+    second: Base3_body_10
+  - first:
+      213: -2467935093220978337
+    second: Base3_body_11
+  - first:
+      213: 7766695868412110747
+    second: Base3_body_12
+  - first:
+      213: 3931280290833243926
+    second: Base3_body_13
+  - first:
+      213: 6785461290996835518
+    second: Base3_body_14
+  - first:
+      213: -5906055885788493612
+    second: Base3_body_15
+  - first:
+      213: -6696508847079132585
+    second: Base3_body_16
+  - first:
+      213: 7244223429805868533
+    second: Base3_body_17
+  - first:
+      213: 511083983582531161
+    second: Base3_body_18
+  - first:
+      213: -1243825492326347129
+    second: Base3_body_19
+  - first:
+      213: -2008044984058204390
+    second: Base3_body_20
+  - first:
+      213: -8693316226365984581
+    second: Base3_body_21
+  - first:
+      213: 4855124446092487040
+    second: Base3_body_22
+  - first:
+      213: 6622153999134373827
+    second: Base3_body_23
+  - first:
+      213: -6165885577847790708
+    second: Base3_body_24
+  - first:
+      213: 7405914581409357050
+    second: Base3_body_25
+  - first:
+      213: 183849727393232794
+    second: Base3_body_26
+  - first:
+      213: 7155740578486337515
+    second: Base3_body_27
+  - first:
+      213: 9193370315479751043
+    second: Base3_body_28
+  - first:
+      213: 8449647869734440580
+    second: Base3_body_29
+  - first:
+      213: -6779631257437447757
+    second: Base3_body_30
+  - first:
+      213: 7813232639248279028
+    second: Base3_body_31
+  - first:
+      213: 8244065512211505055
+    second: Base3_body_32
+  - first:
+      213: -7969615513591567881
+    second: Base3_body_33
+  - first:
+      213: -7309838277887701377
+    second: Base3_body_34
+  - first:
+      213: 7220267345781936957
+    second: Base3_body_35
+  - first:
+      213: -6435275073564701321
+    second: Base3_body_36
+  - first:
+      213: 5738580678909052898
+    second: Base3_body_37
+  - first:
+      213: -8966998162336661442
+    second: Base3_body_38
+  - first:
+      213: 2429510789596209749
+    second: Base3_body_39
+  - first:
+      213: -8598771535360449103
+    second: Base3_body_40
+  - first:
+      213: -2529111173679976456
+    second: Base3_body_41
+  - first:
+      213: 3684115727457129626
+    second: Base3_body_42
+  - first:
+      213: -8858483815026552973
+    second: Base3_body_43
+  - first:
+      213: -6330407378665220503
+    second: Base3_body_44
+  - first:
+      213: -4905435780908729625
+    second: Base3_body_45
+  - first:
+      213: 5842453977221424102
+    second: Base3_body_46
+  - first:
+      213: -4007712214113569232
+    second: Base3_body_47
+  - first:
+      213: 8326485929143618881
+    second: Base3_body_48
+  - first:
+      213: 1055606295769496811
+    second: Base3_body_49
+  - first:
+      213: -5837693353058804498
+    second: Base3_body_50
+  - first:
+      213: -7393659373543689659
+    second: Base3_body_51
+  - first:
+      213: -4159174172515294019
+    second: Base3_body_52
+  - first:
+      213: 2263484602587148909
+    second: Base3_body_53
+  - first:
+      213: 3198437630234298500
+    second: Base3_body_54
+  - first:
+      213: 545774258409182849
+    second: Base3_body_55
+  - first:
+      213: -8992837469705594459
+    second: Base3_body_56
+  - first:
+      213: 3675841206320073888
+    second: Base3_body_57
+  - first:
+      213: 106463011458225051
+    second: Base3_body_58
+  - first:
+      213: -4608041254307959527
+    second: Base3_body_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base3_body_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 547
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956c158ee2a421760800000000000000
+      internalID: 7427080300813993561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 547
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddee6069dd2b5fd0800000000000000
+      internalID: -2352235968721916452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 547
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25af5d5093fa8590800000000000000
+      internalID: -7671051213904829142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 547
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941f40ab150ef39f0800000000000000
+      internalID: -486423593114865335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 515
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1551dfe29639d160800000000000000
+      internalID: 7050726696341820702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 515
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4f5c788f9413130800000000000000
+      internalID: 3544695713495905533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 515
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a8b46a8797aafa0800000000000000
+      internalID: -5788680811938346407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 515
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a7612f57498d130800000000000000
+      internalID: 3591783937121614463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 483
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880a019a05b72d900800000000000000
+      internalID: 707763677814628488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 483
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb95863e1dc714120800000000000000
+      internalID: 2396333717643090363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 483
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c36fcfab49df450800000000000000
+      internalID: 6124214599122566145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 483
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51d7dfbb1220cdd0800000000000000
+      internalID: -2467935093220978337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 451
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97a23b1eb8d8cb60800000000000000
+      internalID: 7766695868412110747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 451
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f1c9f7896be8630800000000000000
+      internalID: 3931280290833243926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 451
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4a70fd71dca2e50800000000000000
+      internalID: 6785461290996835518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 419
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8c8f7a679790ea0800000000000000
+      internalID: -5906055885788493612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 419
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7527696eea83113a0800000000000000
+      internalID: -6696508847079132585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 419
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5042fe3d6a88460800000000000000
+      internalID: 7244223429805868533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 387
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e04dbdc2cb71700800000000000000
+      internalID: 511083983582531161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 387
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e00570e4b0dbee0800000000000000
+      internalID: -1243825492326347129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 387
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fa430e9bdf124e0800000000000000
+      internalID: -2008044984058204390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 355
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0f05783f22b5780800000000000000
+      internalID: -8693316226365984581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 355
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08968adc5fdd06340800000000000000
+      internalID: 4855124446092487040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 355
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7365ef9fd96eb50800000000000000
+      internalID: 6622153999134373827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 323
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83ada63cbf5e6aa0800000000000000
+      internalID: -6165885577847790708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 323
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc5ac5d21817c660800000000000000
+      internalID: 7405914581409357050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 323
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97735d5a5a2d8200800000000000000
+      internalID: 183849727393232794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 291
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befb685b42c4e4360800000000000000
+      internalID: 7155740578486337515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 291
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3899ac6e799659f70800000000000000
+      internalID: 9193370315479751043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 291
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e48a828fd234570800000000000000
+      internalID: 8449647869734440580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 259
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b95e489a49e9e1a0800000000000000
+      internalID: -6779631257437447757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 259
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5a1e960bd2e6c60800000000000000
+      internalID: 7813232639248279028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 259
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f5a6887edc86270800000000000000
+      internalID: 8244065512211505055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_33
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 259
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9aeeb4aec366190800000000000000
+      internalID: -7969615513591567881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 259
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e43f0c0dc3e8a90800000000000000
+      internalID: -7309838277887701377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 227
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d335fa875ea833460800000000000000
+      internalID: 7220267345781936957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_36
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 227
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d00488a6f41b6a0800000000000000
+      internalID: -6435275073564701321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_37
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 227
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e74b4129b883af40800000000000000
+      internalID: 5738580678909052898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_38
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 227
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30c7583ea2de8380800000000000000
+      internalID: -8966998162336661442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_39
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 227
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5526cd7e03b57b120800000000000000
+      internalID: 2429510789596209749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 195
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5a91ac8d60ba880800000000000000
+      internalID: -8598771535360449103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 195
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff655f89cac6ecd0800000000000000
+      internalID: -2529111173679976456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 195
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94138e1cbb902330800000000000000
+      internalID: 3684115727457129626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_43
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 195
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f8bcc87e7501580800000000000000
+      internalID: -8858483815026552973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_44
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 195
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966d52f6700e528a0800000000000000
+      internalID: -6330407378665220503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 163
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eab17ab5246cebb0800000000000000
+      internalID: -4905435780908729625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_46
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 163
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3e9d800f0941150800000000000000
+      internalID: 5842453977221424102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 131
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03634cb99feb168c0800000000000000
+      internalID: -4007712214113569232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_48
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 131
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dc4e146de9d8370800000000000000
+      internalID: 8326485929143618881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 99
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becb10a455446ae00800000000000000
+      internalID: 1055606295769496811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 99
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec554723d85cfea0800000000000000
+      internalID: -5837693353058804498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_51
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 67
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542f0b919f1746990800000000000000
+      internalID: -7393659373543689659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_52
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 67
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db42f385025a746c0800000000000000
+      internalID: -4159174172515294019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_53
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 67
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62f5cbe043896f10800000000000000
+      internalID: 2263484602587148909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_54
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 35
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4888b522412236c20800000000000000
+      internalID: 3198437630234298500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_55
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 35
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1861800ebcaf29700800000000000000
+      internalID: 545774258409182849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_56
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 35
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a91067a7f5033380800000000000000
+      internalID: -8992837469705594459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_57
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac83790a16330330800000000000000
+      internalID: 3675841206320073888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_58
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b939fab7b8b3a7100800000000000000
+      internalID: 106463011458225051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base3_body_59
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 3
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91de0a6c4e2fc00c0800000000000000
+      internalID: -4608041254307959527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Base3_body_0: 7427080300813993561
+      Base3_body_1: -2352235968721916452
+      Base3_body_10: 6124214599122566145
+      Base3_body_11: -2467935093220978337
+      Base3_body_12: 7766695868412110747
+      Base3_body_13: 3931280290833243926
+      Base3_body_14: 6785461290996835518
+      Base3_body_15: -5906055885788493612
+      Base3_body_16: -6696508847079132585
+      Base3_body_17: 7244223429805868533
+      Base3_body_18: 511083983582531161
+      Base3_body_19: -1243825492326347129
+      Base3_body_2: -7671051213904829142
+      Base3_body_20: -2008044984058204390
+      Base3_body_21: -8693316226365984581
+      Base3_body_22: 4855124446092487040
+      Base3_body_23: 6622153999134373827
+      Base3_body_24: -6165885577847790708
+      Base3_body_25: 7405914581409357050
+      Base3_body_26: 183849727393232794
+      Base3_body_27: 7155740578486337515
+      Base3_body_28: 9193370315479751043
+      Base3_body_29: 8449647869734440580
+      Base3_body_3: -486423593114865335
+      Base3_body_30: -6779631257437447757
+      Base3_body_31: 7813232639248279028
+      Base3_body_32: 8244065512211505055
+      Base3_body_33: -7969615513591567881
+      Base3_body_34: -7309838277887701377
+      Base3_body_35: 7220267345781936957
+      Base3_body_36: -6435275073564701321
+      Base3_body_37: 5738580678909052898
+      Base3_body_38: -8966998162336661442
+      Base3_body_39: 2429510789596209749
+      Base3_body_4: 7050726696341820702
+      Base3_body_40: -8598771535360449103
+      Base3_body_41: -2529111173679976456
+      Base3_body_42: 3684115727457129626
+      Base3_body_43: -8858483815026552973
+      Base3_body_44: -6330407378665220503
+      Base3_body_45: -4905435780908729625
+      Base3_body_46: 5842453977221424102
+      Base3_body_47: -4007712214113569232
+      Base3_body_48: 8326485929143618881
+      Base3_body_49: 1055606295769496811
+      Base3_body_5: 3544695713495905533
+      Base3_body_50: -5837693353058804498
+      Base3_body_51: -7393659373543689659
+      Base3_body_52: -4159174172515294019
+      Base3_body_53: 2263484602587148909
+      Base3_body_54: 3198437630234298500
+      Base3_body_55: 545774258409182849
+      Base3_body_56: -8992837469705594459
+      Base3_body_57: 3675841206320073888
+      Base3_body_58: 106463011458225051
+      Base3_body_59: -4608041254307959527
+      Base3_body_6: -5788680811938346407
+      Base3_body_7: 3591783937121614463
+      Base3_body_8: 707763677814628488
+      Base3_body_9: 2396333717643090363
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
