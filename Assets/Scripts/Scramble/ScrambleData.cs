@@ -18,4 +18,5 @@ public class ScrambleDef
 public class RewardDef
 {
     public int grammar = 0;
+    public int vocab = 0;
 }

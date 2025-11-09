@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: 665bc15ce3df0874099b7aa711604080
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -696781009912867242
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_0
+  - first:
+      213: 5623130129280736894
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_1
+  - first:
+      213: -3887385458704173126
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_2
+  - first:
+      213: 6411426263908742368
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_3
+  - first:
+      213: -7821123820446530874
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_4
+  - first:
+      213: -4306323804252262045
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_5
+  - first:
+      213: -6860436097821972388
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_6
+  - first:
+      213: -8308732605954947133
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_7
+  - first:
+      213: 7915563900667799811
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_8
+  - first:
+      213: -4171803847951705039
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_9
+  - first:
+      213: -1416022170517414304
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_10
+  - first:
+      213: -6657724431051976939
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_11
+  - first:
+      213: 7348446550209901529
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_12
+  - first:
+      213: -6809813064243468544
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_13
+  - first:
+      213: -8050882994703252670
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_14
+  - first:
+      213: 4707305009340699927
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_15
+  - first:
+      213: 4843128946037442409
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_16
+  - first:
+      213: -3305626719975078409
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_17
+  - first:
+      213: 5143705712766864194
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_18
+  - first:
+      213: -1747862411831471495
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_19
+  - first:
+      213: -7756030951016930276
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_20
+  - first:
+      213: -7465791797615097865
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_21
+  - first:
+      213: -4481101389417974719
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_22
+  - first:
+      213: 8854140360078725345
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_23
+  - first:
+      213: -3331784902803324305
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_24
+  - first:
+      213: 6581876414463111234
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_25
+  - first:
+      213: 3650054343338816612
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_26
+  - first:
+      213: 2795695282035474051
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_27
+  - first:
+      213: -5085368045932942603
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_28
+  - first:
+      213: -2984184761237456097
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_29
+  - first:
+      213: 3171429862437420509
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_30
+  - first:
+      213: -3346602260176853888
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_31
+  - first:
+      213: 1065345852916260297
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_32
+  - first:
+      213: -5247356522850159740
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_33
+  - first:
+      213: -4869129242216145730
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_34
+  - first:
+      213: 4910398526503987356
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_35
+  - first:
+      213: -7567459646126997994
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_36
+  - first:
+      213: 8150886802372889102
+    second: pngtree-monkey-cartoon-animal-png-image_15866077_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2247
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656d7e9fc598456f0800000000000000
+      internalID: -696781009912867242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 112
+        width: 2175
+        height: 2382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e13995f0f590e40800000000000000
+      internalID: 5623130129280736894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_2
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 2391
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab73be4858b3d0ac0800000000000000
+      internalID: -3887385458704173126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_3
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2398
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4f3e3c736f9f850800000000000000
+      internalID: 6411426263908742368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1968
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c240f9c259c57390800000000000000
+      internalID: -7821123820446530874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1999
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3613cbfd05ddc34c0800000000000000
+      internalID: -4306323804252262045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_6
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1915
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58ed0997b5dac0a0800000000000000
+      internalID: -6860436097821972388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_7
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1970
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7895867b371bc80800000000000000
+      internalID: -8308732605954947133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1646
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309a530ed6bb9dd60800000000000000
+      internalID: 7915563900667799811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_9
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 1790
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c1b32e086ca16c0800000000000000
+      internalID: -4171803847951705039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_10
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1797
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e5b3c9657495ce0800000000000000
+      internalID: -1416022170517414304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1367
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f05b277e20b93a0800000000000000
+      internalID: -6657724431051976939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1399
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3b434243deaf560800000000000000
+      internalID: 7348446550209901529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_13
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1314
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00724f6191fae71a0800000000000000
+      internalID: -6809813064243468544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_14
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1369
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243ca7c5294854090800000000000000
+      internalID: -8050882994703252670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1045
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7155b2337f4b35140800000000000000
+      internalID: 4707305009340699927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_16
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1189
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96749fdcd10463340800000000000000
+      internalID: 4843128946037442409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_17
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1196
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f588db130e0022d0800000000000000
+      internalID: -3305626719975078409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 766
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bcd9ed71d126740800000000000000
+      internalID: 5143705712766864194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 797
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9721782a5685eb7e0800000000000000
+      internalID: -1747862411831471495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_20
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 713
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1463b971fa0d5490800000000000000
+      internalID: -7756030951016930276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_21
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 768
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f780206aed246890800000000000000
+      internalID: -7465791797615097865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 444
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1447b39370eefc1c0800000000000000
+      internalID: -4481101389417974719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_23
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 588
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e011f90fb930ea70800000000000000
+      internalID: 8854140360078725345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_24
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 595
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f620660984f13c1d0800000000000000
+      internalID: -3331784902803324305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 165
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24078970ab5875b50800000000000000
+      internalID: 6581876414463111234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 197
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464f491261997a230800000000000000
+      internalID: 3650054343338816612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_27
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 112
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38eb5f9fb0e4cc620800000000000000
+      internalID: 2795695282035474051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_28
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 167
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa6b06a4b42d69b0800000000000000
+      internalID: -5085368045932942603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 97
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bbe4245cb0696d0800000000000000
+      internalID: -2984184761237456097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_30
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddf5ac28ae230c20800000000000000
+      internalID: 3171429862437420509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_31
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 97
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084a3a5b9fa7e81d0800000000000000
+      internalID: -3346602260176853888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_32
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd5206a86ed8ce00800000000000000
+      internalID: 1065345852916260297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_33
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 0
+        width: 97
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483ffad4b05ad27b0800000000000000
+      internalID: -5247356522850159740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_34
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 0
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc5d3080c06d6cb0800000000000000
+      internalID: -4869129242216145730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_35
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 0
+        width: 97
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c982fd5817d352440800000000000000
+      internalID: 4910398526503987356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_36
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 0
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e3f74cb8bfaf690800000000000000
+      internalID: -7567459646126997994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-monkey-cartoon-animal-png-image_15866077_37
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a0bdb8c54cd1170800000000000000
+      internalID: 8150886802372889102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-monkey-cartoon-animal-png-image_15866077_0: -696781009912867242
+      pngtree-monkey-cartoon-animal-png-image_15866077_1: 5623130129280736894
+      pngtree-monkey-cartoon-animal-png-image_15866077_10: -1416022170517414304
+      pngtree-monkey-cartoon-animal-png-image_15866077_11: -6657724431051976939
+      pngtree-monkey-cartoon-animal-png-image_15866077_12: 7348446550209901529
+      pngtree-monkey-cartoon-animal-png-image_15866077_13: -6809813064243468544
+      pngtree-monkey-cartoon-animal-png-image_15866077_14: -8050882994703252670
+      pngtree-monkey-cartoon-animal-png-image_15866077_15: 4707305009340699927
+      pngtree-monkey-cartoon-animal-png-image_15866077_16: 4843128946037442409
+      pngtree-monkey-cartoon-animal-png-image_15866077_17: -3305626719975078409
+      pngtree-monkey-cartoon-animal-png-image_15866077_18: 5143705712766864194
+      pngtree-monkey-cartoon-animal-png-image_15866077_19: -1747862411831471495
+      pngtree-monkey-cartoon-animal-png-image_15866077_2: -3887385458704173126
+      pngtree-monkey-cartoon-animal-png-image_15866077_20: -7756030951016930276
+      pngtree-monkey-cartoon-animal-png-image_15866077_21: -7465791797615097865
+      pngtree-monkey-cartoon-animal-png-image_15866077_22: -4481101389417974719
+      pngtree-monkey-cartoon-animal-png-image_15866077_23: 8854140360078725345
+      pngtree-monkey-cartoon-animal-png-image_15866077_24: -3331784902803324305
+      pngtree-monkey-cartoon-animal-png-image_15866077_25: 6581876414463111234
+      pngtree-monkey-cartoon-animal-png-image_15866077_26: 3650054343338816612
+      pngtree-monkey-cartoon-animal-png-image_15866077_27: 2795695282035474051
+      pngtree-monkey-cartoon-animal-png-image_15866077_28: -5085368045932942603
+      pngtree-monkey-cartoon-animal-png-image_15866077_29: -2984184761237456097
+      pngtree-monkey-cartoon-animal-png-image_15866077_3: 6411426263908742368
+      pngtree-monkey-cartoon-animal-png-image_15866077_30: 3171429862437420509
+      pngtree-monkey-cartoon-animal-png-image_15866077_31: -3346602260176853888
+      pngtree-monkey-cartoon-animal-png-image_15866077_32: 1065345852916260297
+      pngtree-monkey-cartoon-animal-png-image_15866077_33: -5247356522850159740
+      pngtree-monkey-cartoon-animal-png-image_15866077_34: -4869129242216145730
+      pngtree-monkey-cartoon-animal-png-image_15866077_35: 4910398526503987356
+      pngtree-monkey-cartoon-animal-png-image_15866077_36: -7567459646126997994
+      pngtree-monkey-cartoon-animal-png-image_15866077_37: 8150886802372889102
+      pngtree-monkey-cartoon-animal-png-image_15866077_4: -7821123820446530874
+      pngtree-monkey-cartoon-animal-png-image_15866077_5: -4306323804252262045
+      pngtree-monkey-cartoon-animal-png-image_15866077_6: -6860436097821972388
+      pngtree-monkey-cartoon-animal-png-image_15866077_7: -8308732605954947133
+      pngtree-monkey-cartoon-animal-png-image_15866077_8: 7915563900667799811
+      pngtree-monkey-cartoon-animal-png-image_15866077_9: -4171803847951705039
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

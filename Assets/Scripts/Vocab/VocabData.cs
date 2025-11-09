@@ -21,8 +21,3 @@ public class VocabCard
     public string imagePath; // Resources path
     public string audioPath; // Resources path
 }
-[Serializable]
-public class RewardDef
-{
-    public int vocab = 0;
-}

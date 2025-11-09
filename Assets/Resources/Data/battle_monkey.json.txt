@@ -1,0 +1,18 @@
+{
+  "enemyName": "Monkey",
+  "enemyHP": 3,
+  "questions": [
+    {
+      "type": "choice",
+      "question": "คำว่า 'Banana' แปลว่าอะไร?",
+      "choices": ["กล้วย", "มะม่วง", "ส้ม", "แอปเปิ้ล"],
+      "answerIndex": 0
+    },
+    {
+      "type": "choice",
+      "question": "คำว่า 'Monkey' แปลว่าอะไร?",
+      "choices": ["ลิง", "แมว", "หมา", "หนู"],
+      "answerIndex": 0
+    }
+  ]
+}

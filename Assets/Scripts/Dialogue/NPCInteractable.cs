@@ -12,5 +12,6 @@ public class NPCInteractable : Interactable
             // เมื่อจบบทสนทนา (node.end) → สามารถอัปเดตเควสต่อได้
             // เช่น: GameEvents.OnActiveQuestChanged?.Invoke("Monkey Trouble");
         });
+        QuestManager.I.ReportToYiYiAndComplete();
     }
 }

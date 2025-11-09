@@ -1,5 +1,4 @@
 using UnityEngine;
-
 public class InteractableScanner : MonoBehaviour
 {
     public float radius = 0.5f;
