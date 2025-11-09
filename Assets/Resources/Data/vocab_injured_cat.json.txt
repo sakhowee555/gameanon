@@ -1,0 +1,19 @@
+{
+  "mob_id": "injured_cat",
+  "time_limit_sec": 20,
+  "win_requirement": 3,
+  "cards": [
+    { "id":"banana",  "word":"banana",  "pos":"noun", "th":"กล้วย",     "imagePath":"Sprites/Vocab/banana",  "audioPath":"Audio/Voice/banana" },
+    { "id":"bandage", "word":"bandage", "pos":"noun", "th":"ผ้าพันแผล", "imagePath":"Sprites/Vocab/bandage", "audioPath":"Audio/Voice/bandage" },
+    { "id":"wound",   "word":"wound",   "pos":"noun", "th":"แผล",       "imagePath":"Sprites/Vocab/wound",   "audioPath":"Audio/Voice/wound" },
+    { "id":"slip",    "word":"slip",    "pos":"verb", "th":"ลื่น",      "imagePath":"Sprites/Vocab/slip",    "audioPath":"Audio/Voice/slip" }
+  ],
+  "reward": { "vocab": 1 }
+}
+Assets/Resources/Sprites/Vocab/banana.png
+Assets/Resources/Sprites/Vocab/bandage.png
+Assets/Resources/Sprites/Vocab/wound.png
+Assets/Resources/Sprites/Vocab/slip.png
+
+Assets/Resources/Audio/Voice/banana.ogg
+... (ครบทั้ง 4 คำ)

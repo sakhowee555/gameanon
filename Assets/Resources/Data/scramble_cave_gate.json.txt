@@ -1,0 +1,10 @@
+{
+  "scramble_id": "cave_gate_q1",
+  "title": "Ask for directions",
+  "instruction_en": "Arrange the words to ask for directions correctly.",
+  "tiles": ["Do", "you", "know", "where", "Sulupapa", "Cave", "is", "?"],
+  "answer": "Do you know where Sulupapa Cave is?",
+  "hint": "Start with 'Do you know' + 'where + subject + be'",
+  "reward": { "grammar": 1 },
+  "time_limit_sec": 0
+}
